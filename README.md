@@ -84,8 +84,8 @@ server_socket.close()
 
 ## OUTPUT :
 
-<img width="1263" height="746" alt="Screenshot 2025-09-08 154045" src="https://github.com/user-attachments/assets/5a48156d-dfa2-4332-ac01-2e66b720277d" />
-<img width="1267" height="750" alt="Screenshot 2025-09-08 154102" src="https://github.com/user-attachments/assets/13d956e9-31fe-453d-a477-09932382c546" />
+<img width="1919" height="1024" alt="Screenshot 2025-09-08 155949" src="https://github.com/user-attachments/assets/bab58971-afd1-49cb-8a52-faba2a691f7f" />
+<img width="1919" height="1026" alt="Screenshot 2025-09-08 155939" src="https://github.com/user-attachments/assets/5eaf7f14-803a-45aa-8785-fc10daeee97f" />
 
 
 ## Result:
